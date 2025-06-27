@@ -1,4 +1,4 @@
-Responsive Website with Navbar & Footer
+## Responsive Website with Navbar & Footer
 This project is a simple and responsive HTML/CSS/JS website layout featuring:
 
 A responsive hamburger navbar
